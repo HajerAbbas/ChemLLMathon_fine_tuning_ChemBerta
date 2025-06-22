@@ -136,4 +136,4 @@ This project is open source and shared under an appropriate open-source license 
 
 For questions or collaboration:
 
-* [hajerabbas2024@gmail.com](mailto:hajerabbas2024@gmail.com)
+* [hajerabbas2024@gmail.com](mailto:hajerabbas@outlook.com)
